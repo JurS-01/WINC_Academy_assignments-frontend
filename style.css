@@ -1,0 +1,14 @@
+body {
+    background: burlywood;
+}
+
+
+#list-ul, #matches-ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#country-selector-btns li {
+    list-style: none;
+    display: inline;
+}
