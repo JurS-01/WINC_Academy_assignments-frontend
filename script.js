@@ -153,7 +153,6 @@ document.getElementsByClassName('country#-btn')[0].addEventListener('click', get
 
 //  5. GEMIDDELDE LEEFTIJD
 
-
 const addCountryButtons = () => {
     clearList(), clearMatches(), addDescription('Average age per country'), sortByRegion(randomPersonData);
     const uniqueRegions = removeDuplicates(randomPersonData, person => person.region);

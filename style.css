@@ -12,3 +12,9 @@ body {
     list-style: none;
     display: inline;
 }
+
+.btn {
+    background: rgb(133, 133, 133);
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}

@@ -1,6 +1,6 @@
 export const randomPersonData = [
   {
-    name: "Marianna",
+    name: "Mariana",
     surname: "Markovič",
     gender: "female",
     region: "Slovakia",
